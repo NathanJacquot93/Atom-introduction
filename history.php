@@ -5,6 +5,10 @@
 
     <div class="container">
       <p>Lorem ipsum dolor.</p>
+      <ul>
+        <li>Première guerre</li>
+        <li>Deuxième guerre</li>
+      </ul>
     </div>
    </body>
 </html>
