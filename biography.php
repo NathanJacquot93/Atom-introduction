@@ -5,6 +5,9 @@
 
     <div class="container">
       <p>Lorem ipsum dolor etnis acapum.</p>
+      <div class="flex-box">
+        <p>C'est une flex-box</p>
+      </div>
     </div>
    </body>
 </html>
